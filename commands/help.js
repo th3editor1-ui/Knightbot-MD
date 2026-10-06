@@ -5,10 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KnightBot-MD'}*  
+   *🤖 ${settings.botName || 'LightBot'}*  
    Version: *${settings.version || '3.0.0'}*
-   by ${settings.botOwner || 'Mr Unique Hacker'}
-   YT : ${global.ytch}
+   by ${settings.botOwner || 'Th3Editor1'}
 ╚═══════════════════╝
 
 *Available Commands:*
@@ -212,17 +211,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ .wink 
 ║ ➤ .facepalm 
 ╚═══════════════════╝
-
-╔═══════════════════╗
-💻 *Github Commands:*
-║ ➤ .git
-║ ➤ .github
-║ ➤ .sc
-║ ➤ .script
-║ ➤ .repo
-╚═══════════════════╝
-
-Join our channel for updates:`;
+:3`;
 
     try {
         const imagePath = path.join(__dirname, '../assets/bot_image.jpg');
@@ -237,8 +226,7 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
+                        newsletterName: 'lightBot',
                         serverMessageId: -1
                     }
                 }
@@ -251,8 +239,7 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterName: 'lightBot by Th3Editor1',
                         serverMessageId: -1
                     } 
                 }
