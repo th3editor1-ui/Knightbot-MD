@@ -55,47 +55,11 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 
 ### Step 2: Get Pair Code
 
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Github.
+Deploy the bot and easily connect it to your WhatsApp account by pair code. Deploy the bot on Github.
+
 ---
 
-### Step 3: Deploy Now
-
-For further customization and setup guidance, click the button below:
-
-<div align="center">
-  <a href="https://youtu.be/-oz_u1iMgf8">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
-  </a>
-  <a href="https://bot-hosting.net/?aff=1068419752923508776">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
-  </a>
-</div>
-
-### Deploy on VPS
-
-<div align="center">
-  <a href="https://client.petrosky.io/aff.php?aff=394" target="_blank">
-    <img src="https://img.shields.io/badge/petrosky vps-0078E7?style=for-the-badge" alt="petrosky vps"/>
-  </a>
-</div>
-
-### Deploy on Below Panel
-<div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
-</a>
-</div>
-
-### Join Us
-
-<div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
-  </a>
-</div>
+### Step 3: Once Paired then go to whatsapp and type .menu
 
 ---
 
@@ -185,15 +149,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-## 🌟 Show your support
-
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
-
-
 ## Credits
 
-- [Professor](https://github.com/mruniquehacker)
-- [Baileys](https://github.com/adiwajshing/Baileys)
 - [TechGod143](https://github.com/TechGod143) for pair code
 - [Dgxeon](https://github.com/Dgxeon) for pair code
 
@@ -220,7 +177,7 @@ This project is licensed under the MIT License. However, you must:
 
 ## 📜 Copyright Notice
 
-Copyright (c) 2024 Professor. All rights reserved.
+Copyright (c) 2024 Th3Editor1 . All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
