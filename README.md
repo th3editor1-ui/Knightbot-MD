@@ -23,12 +23,6 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ---
 <div>
-  <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank">
-    <img src="assets/rapid.jpg" alt="RapidProxy" width="100%" />
-  </a>
-</div>
-
-<br>
 
 <div align="left">
   <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank"><b>RapidProxy</b></a> delivers fast, reliable proxy infrastructure for large-scale data operations. With high concurrency, non-expiring traffic, and AI-powered CAPTCHA bypass, it ensures efficient, uninterrupted data collection—trusted by developers worldwide.<br><br>
