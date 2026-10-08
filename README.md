@@ -59,7 +59,9 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Depl
 
 ---
 
-### Step 3: Once Paired then go to whatsapp and type .menu
+### Step 3: Command lists
+
+Once Paired then go to whatsapp and type .menu
 
 ---
 
@@ -114,26 +116,6 @@ It is lightweight and can be easily customized to add more commands as per your 
 4. **Scan the QR code:**
 
     Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
-
----
-
-## ☕ Support Me
-
-<div align="center">
-
-<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
-</a>
-
-</div>
-
-If you find this project helpful and want to support the developer, consider buying me a coffee! Your support helps maintain and improve this open-source project.
-
-<div align="center">
-
-<img src="assets/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200">
-
-</div>
 
 ---
 
